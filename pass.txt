@@ -1,0 +1,9 @@
+admin
+PaintIt52
+
+
+I am using Django, HTML, CSS, and Bootstrap.
+I have set up a landing page using Django and Bootstrap.
+(Explain Bootstrap)
+
+I have created a simple landing page with a title, subtitle, and login and register buttons.
