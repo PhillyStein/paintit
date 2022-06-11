@@ -1,1 +1,1 @@
-web: gunicorn paintit.wsgi --log-file -
+web: gunicorn paintit.paintit.wsgi --log-file -
